@@ -1,0 +1,38 @@
+html{
+width: 1250px;
+margin:auto;
+background-color: black;
+position: center;}
+
+body{
+background-color: DarkCyan;
+border:dotted 5px white;
+padding: 10px;
+text-align: center;
+font-family: Monoton; font-style: normal; font-variant: normal; font-weight: 700; ;}
+
+h1{
+color: White;
+border-bottom: dotted 2px;
+text-align: center;}
+
+p{
+color: DarkRed;
+text-align: center;}
+
+ul{
+color: DarkRed;
+text-align: center;}
+
+h3{
+color: White;
+text-align: center;}
+
+img{
+border-radius: 8px;
+border: dotted 3px white;
+padding: 5px;}
+
+h2{
+color: White;
+text-align: center;}
